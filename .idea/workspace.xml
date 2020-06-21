@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09499771-830a-4447-97fe-25b7d29dc3fc" name="Default Changelist" comment="" />
+    <list default="true" id="09499771-830a-4447-97fe-25b7d29dc3fc" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/11. 盛最多水的容器.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/8. 字符串转换整数 (atoi).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/无重复字符的最长子串.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/4、寻找两个正序数组的中位数.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/最长回文串.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/5.最长回文子串.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +38,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="curise" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -38,6 +55,7 @@
   <component name="ProjectId" id="1ar8Q8DKeaDM7H3XcqfMfZyZxte" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -210,11 +228,27 @@
       <workItem from="1590676300877" duration="778000" />
       <workItem from="1591541271519" duration="612000" />
       <workItem from="1592680712821" duration="132000" />
+      <workItem from="1592681057221" duration="5257000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
