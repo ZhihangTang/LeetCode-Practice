@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09499771-830a-4447-97fe-25b7d29dc3fc" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/11. 盛最多水的容器.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/8. 字符串转换整数 (atoi).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/无重复字符的最长子串.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/4、寻找两个正序数组的中位数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/12. 整数转罗马数字.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/13罗马转数字.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/最长回文串.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/5.最长回文子串.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +52,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -228,7 +223,9 @@
       <workItem from="1590676300877" duration="778000" />
       <workItem from="1591541271519" duration="612000" />
       <workItem from="1592680712821" duration="132000" />
-      <workItem from="1592681057221" duration="5257000" />
+      <workItem from="1592681057221" duration="7502000" />
+      <workItem from="1592916959574" duration="596000" />
+      <workItem from="1593004976043" duration="34000" />
     </task>
     <servers />
   </component>
@@ -240,7 +237,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
