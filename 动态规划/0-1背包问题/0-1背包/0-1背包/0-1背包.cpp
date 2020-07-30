@@ -1,4 +1,4 @@
-﻿/*
+﻿
 #include <iostream>
 #include <algorithm>
 
@@ -63,7 +63,7 @@ int main()
 	return 0;
 }
 
-*/
+
 /*
 10 4
 2 1

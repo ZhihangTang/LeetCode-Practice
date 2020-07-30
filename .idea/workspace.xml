@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09499771-830a-4447-97fe-25b7d29dc3fc" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/字符串/12. 整数转罗马数字.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/13罗马转数字.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/718.最长重复子数组.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/N叉树.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/不同的二叉搜索树.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/树/不同的二叉搜索树.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/二叉树层序遍历.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/树/二叉树层序遍历.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/二叉树层序遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/二叉树层序遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/0-1背包问题/0-1背包/0-1背包/0-1背包.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/0-1背包问题/0-1背包/0-1背包/0-1背包.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/11. 盛最多水的容器.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/11. 盛最多水的容器.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/152. 乘积最大子数组.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/152. 乘积最大子数组.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/53、数组的最大子序和.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/53、数组的最大子序和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/72、编辑距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/72、编辑距离.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/卖股票问题.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/卖股票问题.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序算法/2、插入排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/排序算法/2、插入排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序算法/4、快速排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/排序算法/4、快速排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/查找算法/Magic Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/查找算法/Magic Index.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +65,13 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -226,6 +245,10 @@
       <workItem from="1592681057221" duration="7502000" />
       <workItem from="1592916959574" duration="596000" />
       <workItem from="1593004976043" duration="34000" />
+      <workItem from="1593436716424" duration="127000" />
+      <workItem from="1593584301313" duration="2317000" />
+      <workItem from="1594261189027" duration="596000" />
+      <workItem from="1596098745114" duration="852000" />
     </task>
     <servers />
   </component>

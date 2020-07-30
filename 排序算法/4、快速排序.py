@@ -6,7 +6,7 @@
 '''
 
 
-def QuickSort(nums):
+def QuickSort1(nums):
     if len(nums) < 2:
         return nums
     mid = nums[len(nums) // 2]
@@ -32,9 +32,23 @@ def sort0(nums):
             right.append(item)
     return sort0(left) + [mid] + sort0(right)
 
+def QuickSort(nums):
+  
+    if len(nums)<2:
+        return nums
+    pivot=nums[len(nums)//2]
+    left,right=[],[]
+    nums.remove(pivot)
+    for i in nums:
+        if(i>=pivot):
+            right.append(i)
+        else:
+            left.append(i)
+    return QuickSort(left) + [pivot] + QuickSort(right)    
+
 if __name__ == '__main__':
     nums = [1, 3, 9, 2, 8, 5, 6]
-    print(sort0(nums))
+    print(QuickSort(nums))
 
 
 
