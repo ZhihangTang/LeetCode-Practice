@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09499771-830a-4447-97fe-25b7d29dc3fc" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/数组/718.最长重复子数组.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/N叉树.cpp" afterDir="false" />
+    <list default="true" id="09499771-830a-4447-97fe-25b7d29dc3fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回溯/qpl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回溯/回溯法三步走.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树/不同的二叉搜索树.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/树/不同的二叉搜索树.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树/二叉树层序遍历.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/树/二叉树层序遍历.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树/二叉树层序遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/二叉树层序遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/0-1背包问题/0-1背包/0-1背包/0-1背包.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/0-1背包问题/0-1背包/0-1背包/0-1背包.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/11. 盛最多水的容器.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/11. 盛最多水的容器.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/152. 乘积最大子数组.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/152. 乘积最大子数组.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/53、数组的最大子序和.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/53、数组的最大子序和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/72、编辑距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/72、编辑距离.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/卖股票问题.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/卖股票问题.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序算法/2、插入排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/排序算法/2、插入排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序算法/4、快速排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/排序算法/4、快速排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找算法/Magic Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/查找算法/Magic Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/深度优先搜索/130. 被围绕的区域.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/深度优先搜索/130. 被围绕的区域.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager" selected="Python.qpl">
     <configuration name="位运算" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,8 +194,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="qpl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回溯" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回溯/qpl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qpl" />
         <item itemvalue="Python.1 (1)" />
         <item itemvalue="Python.位运算" />
         <item itemvalue="Python.1" />
@@ -248,8 +260,18 @@
       <workItem from="1593436716424" duration="127000" />
       <workItem from="1593584301313" duration="2317000" />
       <workItem from="1594261189027" duration="596000" />
-      <workItem from="1596098745114" duration="852000" />
+      <workItem from="1596098745114" duration="2882000" />
+      <workItem from="1596433921751" duration="4936000" />
+      <workItem from="1597077448435" duration="671000" />
     </task>
+    <task id="LOCAL-00001" summary="0730 commit">
+      <created>1596099634657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596099634657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +292,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="0730 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="0730 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -315,6 +338,11 @@
           <line>43</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/qpl.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -327,6 +355,7 @@
     <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2、插入排序 Coverage Results" MODIFIED="1589199910537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序算法" />
     <SUITE FILE_PATH="coverage/python$897.coverage" NAME="897、递增顺序查找树 Coverage Results" MODIFIED="1589420829122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深度优先搜索" />
     <SUITE FILE_PATH="coverage/python$7.coverage" NAME="7、堆排序 Coverage Results" MODIFIED="1589250999677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序算法" />
+    <SUITE FILE_PATH="coverage/LeetCode$qpl.coverage" NAME="qpl Coverage Results" MODIFIED="1596638619671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回溯" />
     <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 Coverage Results" MODIFIED="1589687550959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查找算法" />
     <SUITE FILE_PATH="coverage/python$3.coverage" NAME="3、冒泡排序 Coverage Results" MODIFIED="1589200276446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序算法" />
     <SUITE FILE_PATH="coverage/python$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1589991110340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串" />
