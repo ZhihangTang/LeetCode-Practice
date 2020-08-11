@@ -63,3 +63,4 @@ s = Solution()
 a = [-1, 2, 2, 3, 4, 5, 6, 9]
 
 print(s.getAns(a))
+print("this is vscode")
