@@ -1,26 +1,29 @@
-class Solution {
+
+class Solution{
 public:
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());
-        vector<int> v;
-        helper(candidates, target, 0, v);
+    vector<vector<int>> combinationSum2(vector<int> nums,int k){
+        vector<vector<int>> res;
+        vector<int> track;
+        sort(nums.begin(),nums.end());
+        backtrace(nums,k,0,track,res);
         return res;
     }
-private:
-    vector<vector<int> > res;
-    void helper(vector<int>& candidates, int target, int start, vector<int>& now) {
-        if (target == 0) {
-            res.emplace_back(now);
+
+    void backtrace(vector<int> &nums,int target,int idx,vector<int> &track,vector<vector<int>>& res){
+        if(target<0){
             return;
         }
-        for (int i = start; i < candidates.size(); ++i) {
-            if (target - candidates[i] < 0) break; // 无解
-            if (i > start && candidates[i] == candidates[i-1]) continue; // 相同层数相同数字只用一次
-            now.emplace_back(candidates[i]);
-            helper(candidates, target-candidates[i], i+1, now);
-            now.pop_back();
+        if(target==0&&find(res.begin(),res.end(),track)==res.end()){
+            res.push_back(track);
         }
-        return;
+        for(int i=idx;i<nums.size();++i){
+            if(i>idx&&nums[i]==nums[i-1]){
+                continue;
+            }
+            track.push_back(nums[i]);
+            backtrace(nums,target-nums[i],i+1,track,res);
+            track.pop_back();
+        }
     }
-};
-
+}
+;

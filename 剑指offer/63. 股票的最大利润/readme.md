@@ -23,3 +23,11 @@
  
 
 注意：本题与主站 121 题相同：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
+
+
+# 第一题基本情况最多一次交易
+# 第二题进行多次交易
+# 第三题进行2次交易
+# 第四题k次交易
+# 第五题最佳买卖股票时机含冷冻期  
+# 第六题每笔手续费
